@@ -1,4 +1,5 @@
-
+<html>
+<style>
 body {margin: 0;}
 
 ul.sidenav {
@@ -54,3 +55,6 @@ div.content {
         float: none;
     }
 }
+
+</style>
+</html>
